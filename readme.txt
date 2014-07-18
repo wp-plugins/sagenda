@@ -1,9 +1,9 @@
 === Sagenda - Free booking system  ===
 Contributors: Zohaib, www.iteration.info
-Tags: sagenda, agenda, booking, booking wordpress, reservation, reservation system, online reservation system, booking system, events,Booking made easy and free
+Tags: sagenda, agenda, booking, booking wordpress, reservation, reservation system, online reservation system, booking system, events, Booking made easy and free
 Requires at least: 3.0
 Tested up to: 3.9.1
-Stable tag: trunk
+Stable tag: 1.0.0
 License: GPLv2 or later
  
 Sagenda is an online software that helps your clients fix appointments available at absolutely NO COST!.
