@@ -23,17 +23,23 @@ To learn more about our Sagenda service please visit : http://www.sagenda.com/
 == Installation ==
 Follow this steps to install booking easy 
 
-1. Download the plugin into the **/wp-content/plugins/** folder
-2. Activate Sagenda 
-3. Use the shortcode [sagenda-wp] in a page or an article
+1. Download the plugin into the **/wp-content/plugins/** folder & Activate the plugin
+2. Create a free account on https://sagenda.net/Accounts/Register (setup your “bookable items” and events).
+3. Copy your token (from the backend of sagenda.net Settings / account settings) to your Wordpress installation (backend of wp / Settings / Sagenda).
+4. Use the shortcode [sagenda-wp] in a page or an article.
 
 == Screen shots ==
 1. Verify your account with authentication token.
 2. List of Event Types
 
+== Upgrade Notice ==
+
+= 1.0.0 =
+First release published in the wordpress repository.
+
 == Changelog ==
 
-= 1.0 =
+= 1.0.0 =
 * First release
 
 == Frequently Asked Questions ==
