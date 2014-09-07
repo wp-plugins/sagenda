@@ -1,6 +1,6 @@
 === Sagenda - Free booking system  ===
 Contributors: Zohaib, www.iteration.info
-Tags: sagenda, agenda, booking, booking wordpress, reservation, reservation system, online reservation system, booking system, events, Booking made easy and free
+Tags: sagenda, agenda, booking, free booking, reservation, free reservation, reservation system, online reservation system, appointment, booking system, events, event, calendar, online reservation, rooms, rooms reservation, accommodation, schedule, scheduling, free scheduling, reservation plugin, free reservation plugin, free booking plugin, B&B booking, rental
 Requires at least: 3.0
 Tested up to: 3.9.1
 Stable tag: 1.0.0
