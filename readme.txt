@@ -3,7 +3,7 @@ Contributors: Zohaib, www.iteration.info
 Tags: sagenda, agenda, booking, free booking, reservation, free reservation, reservation system, online reservation system, appointment, booking system, events, event, calendar, online reservation, rooms, rooms reservation, accommodation, schedule, scheduling, free scheduling, reservation plugin, free reservation plugin, free booking plugin, B&B booking, rental
 Requires at least: 3.0
 Tested up to: 4.0
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
  
 Sagenda is a free online software that helps your clients fix appointments at absolutely NO COST!
@@ -32,16 +32,27 @@ Follow these steps to install Sagenda:
 
 == Upgrade Notice ==
 
+= 1.0.2 =
+* FIXED :  Fixed exception if WebServices can’t be reached.
+* FIXED :  Fixed several compatibility and layout problem with several themes.
+-> Sagenda is working fine but can’t test by ourself all hosting provider, theme, plugin compatibility… If you find an issue we will be happy to help you, please contact us via : http://www.sagenda.com/#contact-us
+
+
 = 1.0.1 =
-* FIXED :  Compatibility issues with serveral themes and plugins.
+* FIXED :  Compatibility issues with several themes and plugins.
 
 = 1.0.0 =
 First release published in the WordPress repository.
 
 == Changelog ==
 
+= 1.0.2 =
+* FIXED :  Fixed exception if WebServices can’t be reached.
+* FIXED :  Fixed several compatibility and layout problem with several themes.
+-> Sagenda is working fine but can’t test by ourself all hosting provider, theme, plugin compatibility… If you find an issue we will be happy to help you, please contact us via : http://www.sagenda.com/#contact-us
+
 = 1.0.1 =
-* FIXED :  Compatibility issues with serveral themes and plugins.
+* FIXED :  Compatibility issues with several themes and plugins.
 
 = 1.0.0 =
 * First release
