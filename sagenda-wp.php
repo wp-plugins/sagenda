@@ -7,7 +7,7 @@
   Plugin Name: Sagenda
   Plugin URI: https://github.com/Sagenda/sagenda-wp
   Description: Sagenda is an Online Booking System, which gives customers the opportunity to choose the date and the time of an appointment according to one's own preferences and the booking can now be done online. Go to your Plugin configuration page, and save your Authentication token.
-  Version: 1.0.2
+  Version: 1.0.3
   Author: Zohaib, David
   Author URI: http://www.sagenda.com/
   License: GPLv2 or later
@@ -32,7 +32,7 @@ define("SAGENDA_PLUGIN_URL", plugins_url('/', __FILE__));
 define( 'SAGENDA_PLUGIN_DIR', plugin_dir_path(__FILE__));
 
 if (!function_exists('is_plugin_active')) {
-    //include_once( ABSPATH . 'wp-admin/includes/plugin.php' );
+    //include_once( ABSPATH . 'wp-admin/includes/plugin.php' );;
 }
 include_once( SAGENDA_PLUGIN_DIR . 'admin/admin.php' );
 include_once( SAGENDA_PLUGIN_DIR . 'classes/PluginInstall.php');
@@ -45,7 +45,7 @@ class Sagenda {
         PluginInstall::init();
        // if (is_admin()) {
             Admin::init();
-            add_filter('admin_footer_text', array($this, 'sagenda_custom_admin_footer'));
+            //add_filter('admin_footer_text', array($this, 'sagenda_custom_admin_footer'));
         //} else {
             ShortCode::init();
         //}
