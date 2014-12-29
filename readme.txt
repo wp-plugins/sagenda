@@ -55,53 +55,53 @@ Follow these steps to install Sagenda:
 == Frequently Asked Questions ==
 
 
-Can I get a general overview?
+**Can I get a general overview?**
 Yes, please read : [Introducing Sagenda](http://www.sagenda.com/introducing-sagenda/)
 
 
-How can I integrate it in on my Wordpress website?
+**How can I integrate it in on my Wordpress website?**
 1. By using iFrame, please read [http://www.sagenda.com/add-booking-system-website/](http://www.sagenda.com/add-booking-system-website/).
 2. By using the native Wordpress plugin, please read : [http://www.sagenda.com/add-booking-system-website/add-booking-plugin-wordpress-website/](http://www.sagenda.com/add-booking-system-website/add-booking-plugin-wordpress-website/)
 
 
-Do I need to create a new website for my patients to book online appointments with me?
+**Do I need to create a new website for my patients to book online appointments with me?**
 No. You don’t need a separate, new website; "Sagenda" can be integrated into any website, as a new page or in a new space. This online appointment scheduler fits very well into any kind of website using iframe or specific modules for CMS. 
 Please read : [How to add a booking system to my website?](http://www.sagenda.com/add-booking-system-website/)
 
 
-How does my client know of the status of his/her booking request?
+**How does my client know of the status of his/her booking request?**
 The online appointment scheduler sends personalized emails to all people concerned at every step of booking, confirmation or cancelling.
 
 
-But the services I offer are very different from those offered by other businesses.
+**But the services I offer are very different from those offered by other businesses.**
 Whatever your services are, our online appointment scheduler can be configured in a manner that they can be easily displayed to your customers as a list of items. Try it, it's free! 
 
 
-What if I have some feedback to improve your system?
+**What if I have some feedback to improve your system?**
 [Write to us NOW!](http://www.sagenda.com/#contact-us) Our online appointment scheduler is continually evolving, and your feedback is taken into account during every update. 
 
 
-What about its compatibility of the booking system with my device?
+**What about its compatibility of the booking system with my device?**
 This brilliant online appointment scheduler works on PC, Mac, iPhone and Android. Whether your favorite browser is Firefox, Safari, Opera, Chrome or Internet Explorer, you will get optimum performance from the tool. 
 
 
-Is that really free? And if yes, how are you making money then?
+**Is that really free? And if yes, how are you making money then?**
 Yes, this is really free. We make profit because some big customers ask us customized versions of our booking tool and additional software development or module.
 
 
-What is a "Bookable Item"?
+**What is a "Bookable Item"?**
 Bookable items represent the service or business that is available to customers for booking, renting or sharing online. For more information on please read our tutorial about [Bookable items](http://www.sagenda.com/introducing-sagenda/sagenda-bookable-items-can-clients-book/).
 
 
-How to setup event, schedule and repetition?
+**How to setup event, schedule and repetition?**
 This can be solved with "Events". For more information on please read our tutorial about [Events](http://www.sagenda.com/introducing-sagenda/sagenda-events-service-available-clients/).
 
 
-How to manage reservation?
+**How to manage reservation (booking)?**
 Once bookable items and events saved, you can manage your Bookings in the dashboard. For more information please read our tutorial about [dashboard](http://www.sagenda.com/introducing-sagenda/sagenda-dashboard-manage-clients/).
 
 
-How to configure my account?
+**How to configure my account?**
 For more information please read our tutorial about [settings](http://www.sagenda.com/introducing-sagenda/sagenda-account-settings-integration/).
 
 More on :
