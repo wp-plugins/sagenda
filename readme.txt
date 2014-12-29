@@ -56,11 +56,14 @@ Follow these steps to install Sagenda:
 
 
 **Can I get a general overview?**
+
 Yes, please read : [Introducing Sagenda](http://www.sagenda.com/introducing-sagenda/)
 
 
 **How can I integrate it in on my Wordpress website?**
+
 1. By using iFrame, please read [http://www.sagenda.com/add-booking-system-website/](http://www.sagenda.com/add-booking-system-website/).
+
 2. By using the native Wordpress plugin, please read : [http://www.sagenda.com/add-booking-system-website/add-booking-plugin-wordpress-website/](http://www.sagenda.com/add-booking-system-website/add-booking-plugin-wordpress-website/)
 
 
