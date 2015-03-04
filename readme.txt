@@ -22,7 +22,7 @@ To learn more about our Sagenda’s booking service please visit: [http://www.sa
 
 To **create an account** please visit: [https://sagenda.net/Accounts/Register](https://sagenda.net/Accounts/Register)
 
-**NOTE: You need to register an account on the Sagenda site and then you will get an authentication token which you will use to validate your Sagenda plugin.**
+**NOTE: You need to register an account on the Sagenda site and then you will get an authentication code which you will use to validate your Sagenda plugin.**
 == Installation ==
 Follow these steps to install Sagenda: 
 
@@ -59,7 +59,7 @@ Follow these steps to install Sagenda:
 
 = 1.0.2 =
 * FIXED : Fixed exception if WebServices can’t be reached.
-* FIXED : Fixed several compatibility and layout problem with several themes. -> Sagenda is working fine but can’t test by ourself all hosting provider, theme, plugin compatibility… If you find an issue we will be happy to help you, please contact us via : http://www.sagenda.com/#contact-us
+* FIXED : Fixed several compatibility and layout problem with several themes. -> Sagenda is working fine but can’t test by ourself all hosting provider, theme, plugin compatibility… If you find an issue we will be happy to help you, please contact us via : http://www.sagenda.com/#contact
 
 = 1.0.1 =
 * FIXED :  Compatibility issues with several themes and plugins.
