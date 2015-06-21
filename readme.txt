@@ -24,6 +24,12 @@ To **create an account** please visit: [https://sagenda.net/Accounts/Register](h
 
 **NOTE: You need to register an account on the Sagenda site and then you will get an authentication code which you will use to validate your Sagenda plugin.**
 == Installation ==
+
+How to create a Sagenda’s account in video:
+
+[youtube https://www.youtube.com/watch?v=T-NXXxPSTQs]
+
+
 Follow these steps to install Sagenda: 
 
 1. Download the booking plugin into the **/wp-content/plugins/** folder and activate the plugin.
