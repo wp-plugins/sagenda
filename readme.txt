@@ -2,8 +2,8 @@
 Contributors: Zohaib, www.iteration.info
 Tags: booking, free booking, reservation, free reservation, reservation system, online reservation system, appointment, booking system, events, event, calendar, online reservation, rooms, rooms reservation, accommodation, schedule, scheduling, free scheduling, reservation plugin, free reservation plugin, free booking plugin, B&B booking, rental, sagenda, agenda
 Requires at least: 3.0
-Tested up to: 4.2.2
-Stable tag: 1.0.13
+Tested up to: 4.2.4
+Stable tag: 1.0.14
 License: GPLv2 or later
  
 Sagenda is a free online booking / scheduling / reservation module that helps your clients fix appointments at absolutely NO COST!
